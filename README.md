@@ -33,6 +33,8 @@ How to install
 
 Download this .rar file, extract it, double click VOLUME+-.exe and use it, couldn't be simpler, eh!?
 
-https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/INSTALLED.rar
+32bit: https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/INSTALLED_x86.rar
+
+64bit: https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/INSTALLED_x64.rar
 
 BRO-TIP: Check config.cfg!
