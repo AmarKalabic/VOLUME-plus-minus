@@ -17,6 +17,7 @@ VOLUME+- is 100% Python product and has many planned features, as said already s
 
 Source code may be disorderly made but it's because program is still in alpha phase.
 
+
 Planned features
 ===============
 
@@ -26,3 +27,12 @@ Planned features
 * Add more config options
 * Add debugging mode for developers
 * Suggest maybe?
+
+How to install
+===============
+
+Download this .rar file, extract it, double click VOLUME+-.exe and use it, couldn't be simpler, eh!?
+
+https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/INSTALLED.rar
+
+BRO-TIP: Check config.cfg!
