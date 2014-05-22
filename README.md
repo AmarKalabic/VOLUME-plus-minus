@@ -21,7 +21,7 @@ Source code may be disorderly made but it's because program is still in alpha ph
 Planned features
 ===============
 
-* Add GUI (Graphic User Interface)
+* ~~Add GUI (Graphic User Interface)~~
 * Add "per-program" volume adjustion
 * Add gaming mouse buttons support
 * Add more config options
