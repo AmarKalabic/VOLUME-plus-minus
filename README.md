@@ -28,13 +28,13 @@ Planned features
 * Add debugging mode for developers
 * Suggest maybe?
 
-How to install
+How to install (only latest version)
 ===============
 
 Download this .rar file, extract it, double click VOLUME+-.exe and use it, couldn't be simpler, eh!?
 
-32bit: https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/INSTALLED_x86.rar
+32bit: https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/VOLUME+-_beta_v0.2_x86.rar
 
-64bit: https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/INSTALLED_x64.rar
+64bit: https://github.com/AmarKalabic/VOLUME-plus-minus/raw/master/INSTALL/VOLUME+-_beta_v0.2_x64.rar
 
 BRO-TIP: Check config.cfg!
